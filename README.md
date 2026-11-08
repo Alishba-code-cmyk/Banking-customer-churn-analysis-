@@ -15,3 +15,6 @@ Banking-Customer-Churn-Analysis/
 ├── visualizations/
 │
 └── README.md
+
+## download the dataset
+https://www.kaggle.com/datasets/shantanudhakadd/bank-customer-churn-prediction?utm_source=chatgpt.com
