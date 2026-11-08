@@ -18,3 +18,6 @@ Banking-Customer-Churn-Analysis/
 
 ## download the dataset
 https://www.kaggle.com/datasets/shantanudhakadd/bank-customer-churn-prediction?utm_source=chatgpt.com
+## install extensions
+python 3.13.5 - Works well with Pandas, NumPy, Matplotlib and Seaborn.
+jupyter- Working with .ipynb files.
