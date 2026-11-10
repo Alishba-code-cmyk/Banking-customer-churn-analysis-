@@ -23,7 +23,7 @@ https://www.kaggle.com/datasets/shantanudhakadd/bank-customer-churn-prediction?u
 python 3.13.5 - Works well with Pandas, NumPy, Matplotlib and Seaborn.
 jupyter- Working with .ipynb files.
 
-## rule 
+### rule 
 Jupyter Notebook execution order
 
 Import libraries
@@ -33,8 +33,6 @@ Perform data analysis
 If you restart the kernel, execute the cells again from the beginning. Variables do not survive a kernel restart.
 
 ## Phase 2 — Dataset Selection and Description
-
-
  ### Understand the target variable
 Attribute             	Description
 RowNumber	            Record number
@@ -65,3 +63,5 @@ investigate the following:
 3. Data types and inconsistencies.
 4. Outliers.
 5. Final cleaned dataset.
+
+## phase 4 - Descriptive Statistics
