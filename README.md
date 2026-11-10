@@ -23,5 +23,14 @@ https://www.kaggle.com/datasets/shantanudhakadd/bank-customer-churn-prediction?u
 python 3.13.5 - Works well with Pandas, NumPy, Matplotlib and Seaborn.
 jupyter- Working with .ipynb files.
 
+## rule 
+Jupyter Notebook execution order
+
+Import libraries
+Load dataset into df
+Perform data analysis
+
+If you restart the kernel, execute the cells again from the beginning. Variables do not survive a kernel restart.
+
 ## Phase 2 — Dataset Selection and Description
 
