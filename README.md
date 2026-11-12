@@ -32,23 +32,11 @@ Perform data analysis
 
 If you restart the kernel, execute the cells again from the beginning. Variables do not survive a kernel restart.
 
+## loading dataset and examining its structure
+
+
 ## Phase 2 — Dataset Selection and Description
- ### Understand the target variable
-Attribute             	Description
-RowNumber	            Record number
-CustomerId            	Unique customer identifier
-Surname              	Customer surname
-CreditScore	            Customer credit score
-Geography	            Customer country
-Gender	                Customer gender
-Age	                    Customer age
-Tenure              	Years with the bank
-Balance	                Account balance
-NumOfProducts	        Number of bank products
-HasCrCard	            Credit card ownership (0/1)
-IsActiveMember       	Active membership (0/1)
-EstimatedSalary     	Estimated salary
-Exited	                Churn status (0/1)
+
 
 ### Check the distribution
 Interpretation:
@@ -57,6 +45,7 @@ Interpretation:
 - The percentage tells us the proportion of each group.
 
 ## Phase 3 — Data Preprocessing
+
 investigate the following:
 1. Missing values.
 2. Duplicate records.
@@ -64,4 +53,19 @@ investigate the following:
 4. Outliers.
 5. Final cleaned dataset.
 
-## phase 4 - Descriptive Statistics
+## phase 4 - Exploratory Data Analysis (EDA) 
+1. descriptive statistics 
+2. numerical analysis
+3. categorical analysis
+4. relationships and correlations
+5. meaningful insights
+
+## phase 5- Data Visualization and Interpretation 
+• Creation of at least five appropriate visualizations
+• Proper titles, axis labels, legends, and formatting
+• Interpretation of visualizations and communication of insights
+
+## phase 6- Data Visualization and Interpretation 
+• Creation of at least five appropriate visualizations
+• Proper titles, axis labels, legends, and formatting
+• Interpretation of visualizations and communication of insights
